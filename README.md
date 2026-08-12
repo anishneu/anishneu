@@ -1,16 +1,20 @@
-<h1 align="center">Hi, I'm Anish Kuila 👋</h1>
-<h3 align="center">Full-Stack SDE · MS Software Engineering Systems @ Northeastern University</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishneu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0e75b6&height=180&section=header&text=Anish%20Kuila&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20SDE%20%C2%B7%20MS%20Software%20Engineering%20Systems%20%40%20Northeastern&descAlignY=58&descSize=18" width="100%"/>
 
----
+<a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-### `whoami`
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+production-grade+full-stack+systems;FastAPI+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Shipping+RBAC%2C+APIs%2C+and+deployed+web+apps" alt="Typing SVG"/>
+
+</div>
+
+<br/>
+
+## `whoami`
 
 ```
 location   Boston, MA
@@ -21,77 +25,94 @@ building   Talon Vault — enterprise asset & operations management system
 
 I build full-stack systems end to end — from RBAC-secured enterprise backends to deployed, live-demoed web apps. Recent work spans FastAPI, Spring Boot, Node/Express, and React, with a focus on things that are actually shipped and running, not just built and shelved.
 
----
+<br/>
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
+<div align="center">
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,go,mysql,mongodb,react,nodejs,express,spring,fastapi,django,aws,gcp,docker,git,figma,unity&theme=dark" alt="skills"/>
 
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-</p>
+</div>
 
-**Databases & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white"/>
-</p>
+<br/>
 
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
-</p>
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🚀 Featured Projects
+### 🔐 [Talon Vault](https://github.com/anishneu/Enterprise-Asset-Management-System-PLM)
+<img src="assets/talonvault-dashboard.png" width="100%" alt="Talon Vault dashboard"/>
 
-| Project | What it is | Live |
-|---|---|---|
-| **[Talon Vault](https://github.com/anishneu/ams)** | Enterprise asset & PLM management system — 66 API endpoints, 5-tier RBAC via Keycloak, full document lifecycle | — |
-| **[Recipe Hub](https://github.com/anishneu/RecipeHub)** | Role-based recipe platform — 24 REST APIs, JWT auth, live culinary news | [Demo](https://anish-recipehub.netlify.app/Home) |
-| **[Medicence Supplies](https://github.com/anishneu/MedicenceSupplies-Medical-Store-Platform)** | Medical wholesale commerce platform — Spring Boot 3, React/TS, Docker, CI/CD | [Demo](https://anish-medicencesupplies.netlify.app/) |
-| **[Agent Berk: Sky Rush](https://github.com/anishneu/2D-Endless-Runner-Unity-Game)** | 2D Unity endless runner with boss fights, ~3,300 lines of gameplay code | [Play in browser](https://anishkuila.netlify.app) |
-| **[Face Detection & Gender ID](https://github.com/anishneu/Face-Detection-and-Gender-Recognition)** | Haar-cascade + CNN pipeline, 99.97%/94.18% accuracy on CelebA | — |
+Enterprise asset & PLM management system — 66 REST API endpoints, 5-tier RBAC via Keycloak, full Draft→Released document lifecycle with audit trail.
 
-See the full list on my [portfolio](https://anishkuila.netlify.app).
+`FastAPI` `React 19` `MySQL` `Keycloak`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📫 Reach me
+### 🍳 [Recipe Hub](https://github.com/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform)
 
-<p>
-  <a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/-Anish%20Kuila-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/-anishkuila006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
-</p>
+Role-based recipe discovery platform — 24 REST APIs, JWT auth, live culinary news feed, Swagger-documented.
+
+**[▶ Live demo](https://anish-recipehub.netlify.app)**
+
+`React` `Node.js` `Express` `MongoDB Atlas`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💊 [Medicence Supplies](https://github.com/anishneu/MedicenceSupplies-Medical-Store-Platform)
+
+Medical wholesale commerce platform — Spring Boot 3, role-based catalog/fulfillment, Docker + GitHub Actions CI/CD.
+
+**[▶ Live demo](https://anish-medicencesupplies.netlify.app/)**
+
+`Spring Boot` `React` `TypeScript` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Face Detection & Gender ID](https://github.com/anishneu/Face-Detection-and-Gender-Recognition)
+
+Haar-cascade + CNN pipeline trained on CelebA — 99.97% (male) / 94.18% (female) classification accuracy.
+
+`Python` `TensorFlow/Keras` `OpenCV`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>More projects on my <a href="https://anishkuila.netlify.app">portfolio</a>, including a Unity 2D endless runner and a UX case study.</sub>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anishneu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anishneu&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishneu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+</div>
+
+<br/>
+
+## 📫 Reach me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/-Anish%20Kuila-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/-anishkuila006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e3a5f&height=100&section=footer" width="100%"/>
+
