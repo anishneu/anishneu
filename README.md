@@ -1,29 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0e75b6&height=180&section=header&text=Anish%20Kuila&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20SDE%20%C2%B7%20MS%20Software%20Engineering%20Systems%20%40%20Northeastern&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2818,100:1a8f4c&height=180&section=header&text=Anish%20Kuila&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20SDE%20%C2%B7%20MS%20Software%20Engineering%20Systems%20%40%20Northeastern&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1a8f4c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/Email-2e7d46?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+production-grade+full-stack+systems;FastAPI+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Shipping+RBAC%2C+APIs%2C+and+deployed+web+apps" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39D97A&center=true&vCenter=true&width=650&lines=Building+production-grade+full-stack+systems;FastAPI+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Shipping+RBAC%2C+APIs%2C+and+deployed+web+apps" alt="Typing SVG"/>
 
 </div>
 
 <br/>
 
-## `whoami`
-
-```
-location   Boston, MA
-education  MS Software Engineering Systems @ Northeastern University · Dec 2025
-focus      Full-Stack Development · Enterprise Systems · Cloud
-building   Talon Vault — enterprise asset & operations management system
-```
-
-I build full-stack systems end to end — from RBAC-secured enterprise backends to deployed, live-demoed web apps. Recent work spans FastAPI, Spring Boot, Node/Express, and React, with a focus on things that are actually shipped and running, not just built and shelved.
+<div align="center">
+<img src="assets/whoami-terminal.svg" width="100%" alt="whoami card"/>
+</div>
 
 <br/>
 
@@ -44,7 +37,6 @@ I build full-stack systems end to end — from RBAC-secured enterprise backends 
 <td width="50%" valign="top">
 
 ### 🔐 [Talon Vault](https://github.com/anishneu/Enterprise-Asset-Management-System-PLM)
-<img src="assets/talonvault-dashboard.png" width="100%" alt="Talon Vault dashboard"/>
 
 Enterprise asset & PLM management system — 66 REST API endpoints, 5-tier RBAC via Keycloak, full Draft→Released document lifecycle with audit trail.
 
@@ -97,10 +89,10 @@ Haar-cascade + CNN pipeline trained on CelebA — 99.97% (male) / 94.18% (female
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anishneu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anishneu&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anishneu&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anishneu&theme=merko&hide_border=true" alt="GitHub streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishneu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishneu&layout=compact&theme=merko&hide_border=true" alt="Top languages"/>
 
 </div>
 
@@ -110,9 +102,8 @@ Haar-cascade + CNN pipeline trained on CelebA — 99.97% (male) / 94.18% (female
 
 <div align="center">
 <a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/-Anish%20Kuila-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/-anishkuila006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/-anishkuila006%40gmail.com-2e7d46?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-1a8f4c?style=flat&logo=vercel&logoColor=white"/></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e3a5f&height=100&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8f4c,100:0d2818&height=100&section=footer" width="100%"/>
