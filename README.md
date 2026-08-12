@@ -25,7 +25,7 @@
 
 <div align="left">
 
-**Languages**
+**Programming Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,go&theme=dark"/>
 
