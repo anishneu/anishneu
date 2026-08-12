@@ -2,9 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2818,100:1a8f4c&height=180&section=header&text=Anish%20Kuila&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20SDE%20%C2%B7%20MS%20Software%20Engineering%20Systems%20%40%20Northeastern&descAlignY=58&descSize=18" width="100%"/>
 
+<img src="https://komarev.com/ghpvc/?username=anishneu&label=Profile%20Views&color=1a8f4c&style=flat" alt="profile views"/>
 <a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1a8f4c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/Email-2e7d46?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-F2A900?style=for-the-badge&logo=vercel&logoColor=1a1a1a" alt="Portfolio"/></a>
+<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -24,7 +25,25 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,go,mysql,mongodb,react,nodejs,express,spring,fastapi,django,aws,gcp,docker,git,figma,unity&theme=dark" alt="skills"/>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,go&theme=dark"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,materialui&theme=dark"/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,django&theme=dark"/>
+
+**Databases & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,gcp,docker&theme=dark"/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,figma,unity,vscode,linux&theme=dark"/>
 
 </div>
 
@@ -85,6 +104,14 @@ Haar-cascade + CNN pipeline trained on CelebA — 99.97% (male) / 94.18% (female
 
 <br/>
 
+## 🐍 Contribution Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/output/github-contribution-grid-snake.gif" width="100%" alt="contribution snake animation"/>
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -101,8 +128,8 @@ Haar-cascade + CNN pipeline trained on CelebA — 99.97% (male) / 94.18% (female
 
 <div align="center">
 <a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/-Anish%20Kuila-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/-anishkuila006%40gmail.com-2e7d46?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-1a8f4c?style=flat&logo=vercel&logoColor=white"/></a>
+<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/-anishkuila006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-F2A900?style=flat&logo=vercel&logoColor=1a1a1a"/></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8f4c,100:0d2818&height=100&section=footer" width="100%"/>
