@@ -23,7 +23,7 @@
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Languages**
 <br/>
@@ -100,14 +100,6 @@ Haar-cascade + CNN pipeline trained on CelebA — 99.97% (male) / 94.18% (female
 
 <div align="center">
 <sub>More projects on my <a href="https://anishkuila.netlify.app">portfolio</a>, including a Unity 2D endless runner and a UX case study.</sub>
-</div>
-
-<br/>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/anishneu/anishneu/output/github-contribution-grid-snake.gif" width="100%" alt="contribution snake animation"/>
 </div>
 
 <br/>
