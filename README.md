@@ -55,7 +55,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [Talon Vault](https://github.com/anishneu/Enterprise-Asset-Management-System-PLM)
+### 🔐 [Enterprise Asset & Operations Management System (PLM)](https://github.com/anishneu/Enterprise-Asset-Management-System-PLM)
 
 Enterprise asset & PLM management system — 66 REST API endpoints, 5-tier RBAC via Keycloak, full Draft→Released document lifecycle with audit trail.
 
@@ -64,7 +64,7 @@ Enterprise asset & PLM management system — 66 REST API endpoints, 5-tier RBAC 
 </td>
 <td width="50%" valign="top">
 
-### 🍳 [Recipe Hub](https://github.com/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform)
+### 🍳 [Recipe Hub: Full Stack Role-Based Recipe Platform](https://github.com/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform)
 
 Role-based recipe discovery platform — 24 REST APIs, JWT auth, live culinary news feed, Swagger-documented.
 
@@ -77,7 +77,7 @@ Role-based recipe discovery platform — 24 REST APIs, JWT auth, live culinary n
 <tr>
 <td width="50%" valign="top">
 
-### 💊 [Medicence Supplies](https://github.com/anishneu/MedicenceSupplies-Medical-Store-Platform)
+### 💊 [Medicence Supplies: Wholesale E-Commerce Platform](https://github.com/anishneu/MedicenceSupplies-Medical-Store-Platform)
 
 Medical wholesale commerce platform — Spring Boot 3, role-based catalog/fulfillment, Docker + GitHub Actions CI/CD.
 
@@ -88,7 +88,7 @@ Medical wholesale commerce platform — Spring Boot 3, role-based catalog/fulfil
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [Face Detection & Gender ID](https://github.com/anishneu/Face-Detection-and-Gender-Recognition)
+### 🧠 [Face Detection & Gender Identification using Deep Learning](https://github.com/anishneu/Face-Detection-and-Gender-Recognition)
 
 Haar-cascade + CNN pipeline trained on CelebA — 99.97% (male) / 94.18% (female) classification accuracy.
 
