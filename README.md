@@ -108,9 +108,9 @@ Haar-cascade + CNN pipeline trained on CelebA — 99.97% (male) / 94.18% (female
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=anishneu&show_icons=true&theme=merko&hide_border=true&count_private=true" height="150"/>
-<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/streak-stats.svg" height="150"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anishneu&layout=compact&theme=merko&hide_border=true" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api?username=anishneu&show_icons=true&theme=merko&hide_border=true&count_private=true" height="180"/>
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/streak-stats.svg" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anishneu&layout=compact&theme=merko&hide_border=true" height="180"/>
 
 </div>
 
