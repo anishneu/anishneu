@@ -1,72 +1,135 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/hero-terminal.svg" width="100%" alt="Anish Kuila"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2818,100:1a8f4c&height=180&section=header&text=Anish%20Kuila&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20SDE%20%C2%B7%20MS%20Software%20Engineering%20Systems%20%40%20Northeastern&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=anishneu&label=Profile%20Views&color=1a8f4c&style=flat" alt="profile views"/>
+<a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-F2A900?style=for-the-badge&logo=vercel&logoColor=1a1a1a" alt="Portfolio"/></a>
+<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39D97A&center=true&vCenter=true&width=650&lines=Building+production-grade+full-stack+systems;FastAPI+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Shipping+RBAC%2C+APIs%2C+and+deployed+web+apps" alt="Typing SVG"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/metrics.svg" width="100%" alt="metrics"/>
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/whoami-terminal.svg" width="100%" alt="whoami card"/>
 </div>
 
 <br/>
+
+## 🧰 Tech Stack
+
+<div align="left">
+
+**Programming Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,go&theme=dark"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,materialui&theme=dark"/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,django&theme=dark"/>
+
+**Databases & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,gcp,docker&theme=dark"/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,figma,unity,vscode,linux&theme=dark"/>
+
+</div>
+
+<br/>
+
+## 🧩 How it fits together
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/stack-diagram.svg" width="100%" alt="stack diagram"/>
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/stack-diagram.svg" width="100%" alt="stack architecture diagram"/>
 </div>
 
 <br/>
 
-## Case files
+## 🚀 Featured Projects
 
 <table>
-<tr><td>
+<tr>
+<td width="50%" valign="top">
 
-### 01 · Enterprise Asset & Operations Management System (PLM)
+### 🔐 [Enterprise Asset & Operations Management System (PLM)](https://github.com/anishneu/Enterprise-Asset-Management-System-PLM)
 
-66 REST endpoints · 5-tier RBAC via Keycloak · full Draft → Released document lifecycle with audit trail.
+Enterprise asset & PLM management system — 66 REST API endpoints, 5-tier RBAC via Keycloak, full Draft→Released document lifecycle with audit trail.
 
-`FastAPI` `React 19` `MySQL` `Keycloak` — [repo →](https://github.com/anishneu/Enterprise-Asset-Management-System-PLM)
+`FastAPI` `React 19` `MySQL` `Keycloak`
 
-</td></tr>
-<tr><td>
+</td>
+<td width="50%" valign="top">
 
-### 02 · RecipeHub
+### 🍳 [Recipe Hub: Full Stack Role-Based Recipe Platform](https://github.com/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform)
 
-Role-based recipe discovery platform · 24 REST APIs · JWT auth · live culinary news feed · Swagger-documented.
+Role-based recipe discovery platform — 24 REST APIs, JWT auth, live culinary news feed, Swagger-documented.
 
-`React` `Node.js` `Express` `MongoDB Atlas` — [repo →](https://github.com/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform) · [live →](https://anish-recipehub.netlify.app)
+**[▶ Live demo](https://anish-recipehub.netlify.app)**
 
-</td></tr>
-<tr><td>
+`React` `Node.js` `Express` `MongoDB Atlas`
 
-### 03 · Medicence Supplies
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Wholesale e-commerce platform · role-based catalog & fulfillment · Docker + GitHub Actions CI/CD.
+### 💊 [Medicence Supplies: Wholesale E-Commerce Platform](https://github.com/anishneu/MedicenceSupplies-Medical-Store-Platform)
 
-`Spring Boot` `React` `TypeScript` `Docker` — [repo →](https://github.com/anishneu/MedicenceSupplies-Medical-Store-Platform) · [live →](https://anish-medicencesupplies.netlify.app/)
+Medical wholesale commerce platform — Spring Boot 3, role-based catalog/fulfillment, Docker + GitHub Actions CI/CD.
 
-</td></tr>
-<tr><td>
+**[▶ Live demo](https://anish-medicencesupplies.netlify.app/)**
 
-### 04 · Face Detection & Gender Identification
+`Spring Boot` `React` `TypeScript` `Docker`
 
-Haar-cascade + CNN pipeline trained on CelebA · 99.97% (male) / 94.18% (female) classification accuracy.
+</td>
+<td width="50%" valign="top">
 
-`Python` `TensorFlow/Keras` `OpenCV` — [repo →](https://github.com/anishneu/Face-Detection-and-Gender-Recognition)
+### 🧠 [Face Detection & Gender Identification using Deep Learning](https://github.com/anishneu/Face-Detection-and-Gender-Recognition)
 
-</td></tr>
+Haar-cascade + CNN pipeline trained on CelebA — 99.97% (male) / 94.18% (female) classification accuracy.
+
+`Python` `TensorFlow/Keras` `OpenCV`
+
+</td>
+</tr>
 </table>
 
-<sub>More on my <a href="https://anishkuila.netlify.app">portfolio</a>, including a Unity 2D endless runner and a UX case study.</sub>
+<div align="center">
+<sub>More projects on my <a href="https://anishkuila.netlify.app">portfolio</a>, including a Unity 2D endless runner and a UX case study.</sub>
+</div>
 
 <br/>
 
-## Currently
+## 📊 GitHub Stats
 
-MS Software Engineering Systems, Northeastern University · shipping personal projects since graduation · open to SWE / full-stack roles, especially early-stage and YC-backed startups.
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=anishneu&show_icons=true&theme=merko&hide_border=true&count_private=true" height="170"/>
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/streak-stats.svg" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anishneu&layout=compact&theme=merko&hide_border=true" height="170"/>
+
+</div>
 
 <br/>
 
-## Reach me
+## 📫 Reach me
 
-**Email** anishkuila006@gmail.com · **LinkedIn** [anish-kuila](https://www.linkedin.com/in/anish-kuila/) · **Portfolio** [anishkuila.netlify.app](https://anishkuila.netlify.app)
+<div align="center">
+<a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/-Anish%20Kuila-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/-anishkuila006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-F2A900?style=flat&logo=vercel&logoColor=1a1a1a"/></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8f4c,100:0d2818&height=100&section=footer" width="100%"/>
