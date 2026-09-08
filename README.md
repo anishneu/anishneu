@@ -4,91 +4,69 @@
 
 <br/>
 
-I build full-stack systems end to end — APIs, auth, data layers, deployed frontends — and I'm currently looking for SWE / full-stack roles at early-stage and YC-backed startups.
-
-<br/>
-
 <div align="center">
-
-| 66 | 4 | 99.97% | MSSE |
-|:---:|:---:|:---:|:---:|
-| REST endpoints shipped | production-shaped projects | CNN classification accuracy | Northeastern '25 |
-
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/metrics.svg" width="100%" alt="metrics"/>
 </div>
 
 <br/>
 
-## Skills
-
-**Languages** `Java` `Python` `C++` `JavaScript` `TypeScript` `Go`
-
-**Frontend** `React` `Redux` `HTML` `CSS` `Bootstrap` `Material UI`
-
-**Backend** `Node.js` `Express` `Spring Boot` `FastAPI` `Django`
-
-**Data & Infra** `MySQL` `MongoDB` `AWS` `GCP` `Docker` `GitHub Actions`
-
-**Tooling** `Git` `Figma` `Unity` `VS Code` `Linux`
+<div align="center">
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/stack-diagram.svg" width="100%" alt="stack diagram"/>
+</div>
 
 <br/>
 
-## Projects
+## Case files
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td>
 
-**Enterprise Asset & Operations Management System (PLM)**
+### 01 · Enterprise Asset & Operations Management System (PLM)
 
-66 REST endpoints, 5-tier RBAC via Keycloak, full Draft → Released document lifecycle with audit trail.
+66 REST endpoints · 5-tier RBAC via Keycloak · full Draft → Released document lifecycle with audit trail.
 
-`FastAPI` `React 19` `MySQL` `Keycloak`
+`FastAPI` `React 19` `MySQL` `Keycloak` — [repo →](https://github.com/anishneu/Enterprise-Asset-Management-System-PLM)
 
-[Repo →](https://github.com/anishneu/Enterprise-Asset-Management-System-PLM)
+</td></tr>
+<tr><td>
 
-</td>
-<td width="50%" valign="top">
+### 02 · RecipeHub
 
-**RecipeHub**
+Role-based recipe discovery platform · 24 REST APIs · JWT auth · live culinary news feed · Swagger-documented.
 
-Role-based recipe discovery platform. 24 REST APIs, JWT auth, live culinary news feed, Swagger-documented.
+`React` `Node.js` `Express` `MongoDB Atlas` — [repo →](https://github.com/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform) · [live →](https://anish-recipehub.netlify.app)
 
-`React` `Node.js` `Express` `MongoDB Atlas`
+</td></tr>
+<tr><td>
 
-[Repo →](https://github.com/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform) · [Live →](https://anish-recipehub.netlify.app)
+### 03 · Medicence Supplies
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Wholesale e-commerce platform · role-based catalog & fulfillment · Docker + GitHub Actions CI/CD.
 
-**Medicence Supplies**
+`Spring Boot` `React` `TypeScript` `Docker` — [repo →](https://github.com/anishneu/MedicenceSupplies-Medical-Store-Platform) · [live →](https://anish-medicencesupplies.netlify.app/)
 
-Wholesale e-commerce platform. Role-based catalog & fulfillment, Docker + GitHub Actions CI/CD.
+</td></tr>
+<tr><td>
 
-`Spring Boot` `React` `TypeScript` `Docker`
+### 04 · Face Detection & Gender Identification
 
-[Repo →](https://github.com/anishneu/MedicenceSupplies-Medical-Store-Platform) · [Live →](https://anish-medicencesupplies.netlify.app/)
+Haar-cascade + CNN pipeline trained on CelebA · 99.97% (male) / 94.18% (female) classification accuracy.
 
-</td>
-<td width="50%" valign="top">
+`Python` `TensorFlow/Keras` `OpenCV` — [repo →](https://github.com/anishneu/Face-Detection-and-Gender-Recognition)
 
-**Face Detection & Gender Identification**
-
-Haar-cascade + CNN pipeline trained on CelebA — 99.97% (male) / 94.18% (female) accuracy.
-
-`Python` `TensorFlow/Keras` `OpenCV`
-
-[Repo →](https://github.com/anishneu/Face-Detection-and-Gender-Recognition)
-
-</td>
-</tr>
+</td></tr>
 </table>
 
 <sub>More on my <a href="https://anishkuila.netlify.app">portfolio</a>, including a Unity 2D endless runner and a UX case study.</sub>
 
 <br/>
 
-## Contact
+## Currently
+
+MS Software Engineering Systems, Northeastern University · shipping personal projects since graduation · open to SWE / full-stack roles, especially early-stage and YC-backed startups.
+
+<br/>
+
+## Reach me
 
 **Email** anishkuila006@gmail.com · **LinkedIn** [anish-kuila](https://www.linkedin.com/in/anish-kuila/) · **Portfolio** [anishkuila.netlify.app](https://anishkuila.netlify.app)
