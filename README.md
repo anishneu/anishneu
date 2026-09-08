@@ -128,3 +128,6 @@ Haar-cascade + CNN pipeline trained on CelebA — 99.97% (male) / 94.18% (female
 
 <div align="center">
 <a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/-Anish%20Kuila-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-F2A900?style=flat&logo=vercel&logoColor=1a1a1a"/></a>
+<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</div>
