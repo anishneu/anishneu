@@ -1,0 +1,89 @@
+<svg viewBox="0 0 1180 146" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'JetBrains Mono', monospace">
+<rect width="1180" height="146" rx="14" fill="#1d2021"/>
+<rect x="1" y="1" width="1178" height="144" rx="13" fill="none" stroke="#504945"/>
+<text x="14" y="30" font-size="15" fill="#a89984">$ cat ~/.config/theme &#8594; <tspan fill="#fabd2f" font-weight="700">gruvbox-dark</tspan></text>
+<g transform="translate(14,46)">
+<rect width="88" height="76" rx="9" fill="#282828">
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.00s" fill="freeze"/>
+</rect>
+<text x="44.0" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#ebdbb2">#282828</text>
+</g>
+<text x="58.0" y="132" text-anchor="middle" font-size="11" fill="#928374">bg0</text>
+<g transform="translate(110,46)">
+<rect width="88" height="76" rx="9" fill="#3c3836">
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.06s" fill="freeze"/>
+</rect>
+<text x="44.0" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#ebdbb2">#3c3836</text>
+</g>
+<text x="154.0" y="132" text-anchor="middle" font-size="11" fill="#928374">bg1</text>
+<g transform="translate(206,46)">
+<rect width="88" height="76" rx="9" fill="#504945">
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.12s" fill="freeze"/>
+</rect>
+<text x="44.0" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#ebdbb2">#504945</text>
+</g>
+<text x="250.0" y="132" text-anchor="middle" font-size="11" fill="#928374">bg2</text>
+<g transform="translate(302,46)">
+<rect width="88" height="76" rx="9" fill="#665c54">
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.18s" fill="freeze"/>
+</rect>
+<text x="44.0" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#ebdbb2">#665c54</text>
+</g>
+<text x="346.0" y="132" text-anchor="middle" font-size="11" fill="#928374">bg3</text>
+<g transform="translate(398,46)">
+<rect width="88" height="76" rx="9" fill="#fb4934">
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.24s" fill="freeze"/>
+</rect>
+<text x="44.0" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#1d2021">#fb4934</text>
+</g>
+<text x="442.0" y="132" text-anchor="middle" font-size="11" fill="#928374">red</text>
+<g transform="translate(494,46)">
+<rect width="88" height="76" rx="9" fill="#b8bb26">
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.30s" fill="freeze"/>
+</rect>
+<text x="44.0" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#1d2021">#b8bb26</text>
+</g>
+<text x="538.0" y="132" text-anchor="middle" font-size="11" fill="#928374">green</text>
+<g transform="translate(590,46)">
+<rect width="88" height="76" rx="9" fill="#fabd2f">
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.36s" fill="freeze"/>
+</rect>
+<text x="44.0" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#1d2021">#fabd2f</text>
+</g>
+<text x="634.0" y="132" text-anchor="middle" font-size="11" fill="#928374">yellow</text>
+<g transform="translate(686,46)">
+<rect width="88" height="76" rx="9" fill="#83a598">
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.42s" fill="freeze"/>
+</rect>
+<text x="44.0" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#1d2021">#83a598</text>
+</g>
+<text x="730.0" y="132" text-anchor="middle" font-size="11" fill="#928374">blue</text>
+<g transform="translate(782,46)">
+<rect width="88" height="76" rx="9" fill="#d3869b">
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.48s" fill="freeze"/>
+</rect>
+<text x="44.0" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#1d2021">#d3869b</text>
+</g>
+<text x="826.0" y="132" text-anchor="middle" font-size="11" fill="#928374">purple</text>
+<g transform="translate(878,46)">
+<rect width="88" height="76" rx="9" fill="#8ec07c">
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.54s" fill="freeze"/>
+</rect>
+<text x="44.0" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#1d2021">#8ec07c</text>
+</g>
+<text x="922.0" y="132" text-anchor="middle" font-size="11" fill="#928374">aqua</text>
+<g transform="translate(974,46)">
+<rect width="88" height="76" rx="9" fill="#fe8019">
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.60s" fill="freeze"/>
+</rect>
+<text x="44.0" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#1d2021">#fe8019</text>
+</g>
+<text x="1018.0" y="132" text-anchor="middle" font-size="11" fill="#928374">orange</text>
+<g transform="translate(1070,46)">
+<rect width="88" height="76" rx="9" fill="#ebdbb2">
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.66s" fill="freeze"/>
+</rect>
+<text x="44.0" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#1d2021">#ebdbb2</text>
+</g>
+<text x="1114.0" y="132" text-anchor="middle" font-size="11" fill="#928374">fg1</text>
+</svg>
