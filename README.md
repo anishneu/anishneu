@@ -21,29 +21,31 @@
 
 ## 🌿 `~/stack`
 
+*Same dark chip everywhere — each logo keeps its own real brand color instead of being forced into a theme tint.*
+
 **Programming Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,ts,go&theme=dark"/> <img src="https://img.shields.io/badge/SQL-2b3a35?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-1a2420?style=flat-square&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/Python-1a2420?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C-1a2420?style=flat-square&logo=c&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/C%2B%2B-1a2420?style=flat-square&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/HTML-1a2420?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS-1a2420?style=flat-square&logo=css&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-1a2420?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-1a2420?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/SQL-1a2420?style=flat-square&logoColor=dcefe9"/> <img src="https://img.shields.io/badge/Go-1a2420?style=flat-square&logo=go&logoColor=00ADD8"/>
 
 **Frontend & UI**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,materialui&theme=dark"/> <img src="https://img.shields.io/badge/Framer%20Motion-2b3a35?style=flat-square&logo=framer&logoColor=white"/> <img src="https://img.shields.io/badge/Kendo%20UI-2b3a35?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/AG%20Grid-2b3a35?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Chakra%20UI-2b3a35?style=flat-square&logo=chakraui&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-1a2420?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vite-1a2420?style=flat-square&logo=vite&logoColor=646CFF"/> <img src="https://img.shields.io/badge/Framer%20Motion-1a2420?style=flat-square&logo=framer&logoColor=0055FF"/> <img src="https://img.shields.io/badge/Bootstrap-1a2420?style=flat-square&logo=bootstrap&logoColor=7952B3"/> <img src="https://img.shields.io/badge/Material%20UI-1a2420?style=flat-square&logo=mui&logoColor=007FFF"/> <img src="https://img.shields.io/badge/Kendo%20UI-1a2420?style=flat-square&logoColor=dcefe9"/> <img src="https://img.shields.io/badge/AG%20Grid-1a2420?style=flat-square&logoColor=dcefe9"/> <img src="https://img.shields.io/badge/Chakra%20UI-1a2420?style=flat-square&logo=chakraui&logoColor=319795"/>
 
 **Backend & Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate,django,fastapi&theme=dark"/> <img src="https://img.shields.io/badge/Spring%20Boot-2b3a35?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-2b3a35?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-1a2420?style=flat-square&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/Express-1a2420?style=flat-square&logo=express&logoColor=dcefe9"/> <img src="https://img.shields.io/badge/Spring-1a2420?style=flat-square&logo=spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring%20Boot-1a2420?style=flat-square&logo=springboot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Hibernate-1a2420?style=flat-square&logo=hibernate&logoColor=BCA070"/> <img src="https://img.shields.io/badge/Django-1a2420?style=flat-square&logo=django&logoColor=44B78B"/> <img src="https://img.shields.io/badge/FastAPI-1a2420?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/REST%20APIs-1a2420?style=flat-square&logoColor=dcefe9"/>
 
 **Databases & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,aws,gcp,terraform,githubactions&theme=dark"/> <img src="https://img.shields.io/badge/Keycloak-2b3a35?style=flat-square&logo=keycloak&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-1a2420?style=flat-square&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/MongoDB-1a2420?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Docker-1a2420?style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/AWS-1a2420?style=flat-square&logoColor=FF9900"/> <img src="https://img.shields.io/badge/GCP-1a2420?style=flat-square&logo=googlecloud&logoColor=4285F4"/> <img src="https://img.shields.io/badge/Terraform-1a2420?style=flat-square&logo=terraform&logoColor=7B42BC"/> <img src="https://img.shields.io/badge/CI%2FCD-1a2420?style=flat-square&logo=githubactions&logoColor=2088FF"/> <img src="https://img.shields.io/badge/Keycloak-1a2420?style=flat-square&logo=keycloak&logoColor=DB1F26"/>
 
 **Tools & Design**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,linux,postman,cypress,figma,vscode&theme=dark"/> <img src="https://img.shields.io/badge/Swagger-2b3a35?style=flat-square&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-1a2420?style=flat-square&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Linux-1a2420?style=flat-square&logo=linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/Postman-1a2420?style=flat-square&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/Swagger-1a2420?style=flat-square&logo=swagger&logoColor=85EA2D"/> <img src="https://img.shields.io/badge/Cypress-1a2420?style=flat-square&logo=cypress&logoColor=69D3A7"/> <img src="https://img.shields.io/badge/Figma-1a2420?style=flat-square&logo=figma&logoColor=F24E1E"/> <img src="https://img.shields.io/badge/VS%20Code-1a2420?style=flat-square&logoColor=007ACC"/>
 
 **AI Tooling**
 <br/>
-<img src="https://img.shields.io/badge/Claude%20Code-2b3a35?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-2b3a35?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-2b3a35?style=flat-square&logo=githubcopilot&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Gemini-2b3a35?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20Code-1a2420?style=flat-square&logo=anthropic&logoColor=D97757"/> <img src="https://img.shields.io/badge/ChatGPT-1a2420?style=flat-square&logoColor=10A37F"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-1a2420?style=flat-square&logo=githubcopilot&logoColor=8957E5"/> <img src="https://img.shields.io/badge/Google%20Gemini-1a2420?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
 
 ## 🐈 `~/featured`
 
