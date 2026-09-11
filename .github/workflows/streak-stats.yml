@@ -19,7 +19,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=anishneu&theme=merko&hide_border=true
+          options: user=anishneu&hide_border=true&background=15201C&ring=6EE7C7&fire=2DD4BF&currStreakNum=DCEFE9&sideNums=DCEFE9&currStreakLabel=6EE7C7&sideLabels=7FA99D&dates=7FA99D&stroke=2B3A35
           path: assets/streak-stats.svg
 
       - name: Commit streak stats
@@ -29,3 +29,4 @@ jobs:
           git add assets/streak-stats.svg
           git commit -m "Update streak stats" || exit 0
           git push
+
