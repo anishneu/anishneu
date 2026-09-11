@@ -1,161 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d2021,50:3c3836,100:d65d0e&height=180&section=header&text=Anish%20Kuila&fontSize=52&fontColor=fabd2f&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20SDE%20%C2%B7%20MS%20Software%20Engineering%20Systems%20%40%20Northeastern&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1512,50:0f766e,100:6ee7c7&height=150&section=header&text=Anish%20Kuila&fontSize=46&fontColor=eafff8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20SDE%20%C2%B7%20Enterprise%20Systems%20%C2%B7%20Cloud&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=anishneu&label=Profile%20Views&color=fabd2f&style=flat-square" alt="profile views"/>
-<a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/LinkedIn-458588?style=for-the-badge&logo=linkedin&logoColor=fbf1c7" alt="LinkedIn"/></a>
-<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-fabd2f?style=for-the-badge&logo=vercel&logoColor=1d2021" alt="Portfolio"/></a>
-<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/Email-d65d0e?style=for-the-badge&logo=gmail&logoColor=fbf1c7" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=anishneu&label=views&color=6ee7c7&style=flat-square" alt="views"/>
+<a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/LinkedIn-0f766e?style=flat-square&logo=linkedin&logoColor=dcefe9" alt="LinkedIn"/></a>
+<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=flat-square&logo=vercel&logoColor=0e1512" alt="Portfolio"/></a>
+<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/Email-6ee7c7?style=flat-square&logo=gmail&logoColor=0e1512" alt="Email"/></a>
 
-<br/><br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=fe8019&center=true&vCenter=true&width=650&lines=Building+production-grade+full-stack+systems;FastAPI+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Shipping+RBAC%2C+APIs%2C+and+deployed+web+apps" alt="Typing SVG"/>
+<!-- hand-drawn SVG: mascot cat + hot coffee on the desk + live code + a floating skill-tag cloud -->
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/hero-cat.svg" width="100%" alt="Anish Kuila — a mascot cat coding at a laptop with hot coffee on the desk, beside a floating cloud of skill tags"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=800&color=6EE7C7&center=true&vCenter=true&width=620&lines=Production-grade+full-stack+systems;FastAPI+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;RBAC%2C+REST+APIs%2C+deployed+web+apps" alt="typing"/>
+
+</div>
+
+<!-- hand-drawn SVG: flowing mint DNA helix crossing the full card behind a quote -->
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/philosophy-dna.svg" width="100%" alt="A flowing mint DNA helix crossing the full card behind a quote: Write it like you'll debug it at 2 a.m., because you will."/>
+
+## 🌿 `~/stack`
+
+```txt
+lang    Java · Python · C++ · TypeScript · Go
+front   React · Redux · HTML · CSS
+back    Node · Express · Spring Boot · FastAPI · Django
+data    MySQL · MongoDB · AWS · GCP · Docker
+tools   Git · Figma · Unity · VS Code · Linux
+```
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,ts,go,react,nodejs,spring,fastapi,mysql,mongodb,aws,docker,linux&theme=dark" alt="stack icons"/>
+
+## 🐈 `~/featured`
+
+| | |
+|---|---|
+| **[Enterprise Asset & Ops Management (PLM)](https://github.com/anishneu/Enterprise-Asset-Management-System-PLM)**<br/>66 REST endpoints · 5-tier RBAC via Keycloak · full Draft→Released lifecycle with audit trail.<br/>`FastAPI` `React 19` `MySQL` `Keycloak` | **[Recipe Hub](https://github.com/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform)** · [demo](https://anish-recipehub.netlify.app)<br/>Role-based recipe platform · 24 REST APIs · JWT auth · live culinary news feed.<br/>`React` `Node` `Express` `MongoDB` |
+| **[Medicence Supplies](https://github.com/anishneu/MedicenceSupplies-Medical-Store-Platform)** · [demo](https://anish-medicencesupplies.netlify.app/)<br/>Medical wholesale commerce · Spring Boot 3 · role-based catalog/fulfillment · Docker CI/CD.<br/>`Spring Boot` `React` `TypeScript` `Docker` | **[Face Detection & Gender Recognition](https://github.com/anishneu/Face-Detection-and-Gender-Recognition)**<br/>Haar-cascade + CNN on CelebA · 99.97% (M) / 94.18% (F) accuracy.<br/>`Python` `TensorFlow` `OpenCV` |
+
+<div align="center"><sub>More on my <a href="https://anishkuila.netlify.app">portfolio</a> — including a Unity 2D endless runner and a UX case study.</sub></div>
+
+## 📊 `~/stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anishneu&show_icons=true&hide_border=true&count_private=true&title_color=6ee7c7&icon_color=2dd4bf&text_color=dcefe9&bg_color=15201c" height="165"/>
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/streak-stats.svg" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishneu&layout=compact&hide_border=true&title_color=6ee7c7&text_color=dcefe9&bg_color=15201c" height="165"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/whoami-terminal.svg" width="100%" alt="whoami card"/>
-</div>
-
-<br/>
-
-## 🧰 Tech Stack
-
-<div align="left">
-
-**Programming Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,go&theme=dark"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,materialui&theme=dark"/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,django&theme=dark"/>
-
-**Databases & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,gcp,docker&theme=dark"/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,figma,unity,vscode,linux&theme=dark"/>
-
-</div>
-
-<br/>
-
-## 🧩 How it fits together
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/stack-diagram.svg" width="100%" alt="stack architecture diagram"/>
-</div>
-
-<br/>
-
-## 📈 Impact, by the numbers
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/metrics.svg" width="100%" alt="impact metrics"/>
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 [Enterprise Asset & Operations Management System (PLM)](https://github.com/anishneu/Enterprise-Asset-Management-System-PLM)
-
-Enterprise asset & PLM management system — 66 REST API endpoints, 5-tier RBAC via Keycloak, full Draft→Released document lifecycle with audit trail.
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-689d6a?style=flat-square&logo=fastapi&logoColor=1d2021)
-![React](https://img.shields.io/badge/-React%2019-458588?style=flat-square&logo=react&logoColor=fbf1c7)
-![MySQL](https://img.shields.io/badge/-MySQL-d65d0e?style=flat-square&logo=mysql&logoColor=fbf1c7)
-![Keycloak](https://img.shields.io/badge/-Keycloak-cc241d?style=flat-square&logo=keycloak&logoColor=fbf1c7)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍳 [Recipe Hub: Full Stack Role-Based Recipe Platform](https://github.com/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform)
-
-Role-based recipe discovery platform — 24 REST APIs, JWT auth, live culinary news feed, Swagger-documented.
-
-**[▶ Live demo](https://anish-recipehub.netlify.app)**
-
-![React](https://img.shields.io/badge/-React-458588?style=flat-square&logo=react&logoColor=fbf1c7)
-![Node.js](https://img.shields.io/badge/-Node.js-98971a?style=flat-square&logo=nodedotjs&logoColor=fbf1c7)
-![Express](https://img.shields.io/badge/-Express-665c54?style=flat-square&logo=express&logoColor=fbf1c7)
-![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-b8bb26?style=flat-square&logo=mongodb&logoColor=1d2021)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💊 [Medicence Supplies: Wholesale E-Commerce Platform](https://github.com/anishneu/MedicenceSupplies-Medical-Store-Platform)
-
-Medical wholesale commerce platform — Spring Boot 3, role-based catalog/fulfillment, Docker + GitHub Actions CI/CD.
-
-**[▶ Live demo](https://anish-medicencesupplies.netlify.app/)**
-
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-689d6a?style=flat-square&logo=springboot&logoColor=1d2021)
-![React](https://img.shields.io/badge/-React-458588?style=flat-square&logo=react&logoColor=fbf1c7)
-![TypeScript](https://img.shields.io/badge/-TypeScript-458588?style=flat-square&logo=typescript&logoColor=fbf1c7)
-![Docker](https://img.shields.io/badge/-Docker-83a598?style=flat-square&logo=docker&logoColor=1d2021)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [Face Detection & Gender Identification using Deep Learning](https://github.com/anishneu/Face-Detection-and-Gender-Recognition)
-
-Haar-cascade + CNN pipeline trained on CelebA — 99.97% (male) / 94.18% (female) classification accuracy.
-
-![Python](https://img.shields.io/badge/-Python-d79921?style=flat-square&logo=python&logoColor=1d2021)
-![TensorFlow/Keras](https://img.shields.io/badge/-TensorFlow%2FKeras-fe8019?style=flat-square&logo=tensorflow&logoColor=1d2021)
-![OpenCV](https://img.shields.io/badge/-OpenCV-b16286?style=flat-square&logo=opencv&logoColor=fbf1c7)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>More projects on my <a href="https://anishkuila.netlify.app">portfolio</a>, including a Unity 2D endless runner and a UX case study.</sub>
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=anishneu&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="170"/>
-<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/streak-stats.svg" height="170"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anishneu&layout=compact&theme=gruvbox&hide_border=true" height="170"/>
-
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/palette-mint.svg" width="100%" alt="Mint Nocturne palette"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/gruvbox-palette.svg" width="100%" alt="gruvbox dark palette"/>
-</div>
 
-<br/>
+<a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/-Anish%20Kuila-0f766e?style=flat&logo=linkedin&logoColor=dcefe9"/></a>
+<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-2dd4bf?style=flat&logo=vercel&logoColor=0e1512"/></a>
+<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/-Email-6ee7c7?style=flat&logo=gmail&logoColor=0e1512"/></a>
 
-## 📫 Reach me
+<sub>Themed with <b>Mint Nocturne</b> — a hand-rolled palette. The cat, coffee & DNA helix are hand-written SVG + SMIL.</sub>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/-Anish%20Kuila-458588?style=flat&logo=linkedin&logoColor=fbf1c7"/></a>
-<a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-fabd2f?style=flat&logo=vercel&logoColor=1d2021"/></a>
-<a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/-Email-d65d0e?style=flat&logo=gmail&logoColor=fbf1c7"/></a>
-
-<br/><br/>
-<sub>🎨 Themed with <a href="https://github.com/morhetz/gruvbox">Gruvbox</a> — retro groove, low-contrast, warm colors.</sub>
 </div>
