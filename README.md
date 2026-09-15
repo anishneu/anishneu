@@ -53,9 +53,9 @@
 
 #### 🔐 [Enterprise Asset & Ops Management (PLM)](https://github.com/anishneu/Enterprise-Asset-Management-System-PLM)
 
-*Solo project &#183; production-ready &#183; RBAC-secured*
+*Production-ready &#183; RBAC-secured*
 
-66 REST endpoints &#183; 5-tier RBAC via Keycloak &#183; full Draft&#8594;Released lifecycle with audit trail.
+An enterprise-grade asset and operations management platform built to mirror real PLM workflows. 66 REST endpoints power a 5-tier RBAC system via Keycloak, a full Draft&#8594;Released document lifecycle, and a complete audit trail for every change made along the way.
 
 `FastAPI` `React 19` `MySQL` `Keycloak`
 
@@ -64,9 +64,9 @@
 
 #### 🍳 [Recipe Hub](https://github.com/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform)
 
-*Solo project &#183; deployed &#183; full-stack*
+*Deployed &#183; full-stack*
 
-Role-based recipe platform &#183; 24 REST APIs &#183; JWT auth &#183; live culinary news feed.
+A role-based recipe discovery platform with 24 REST APIs and JWT-secured authentication. Pulls in a live culinary news feed alongside user-submitted recipes, so the homepage never looks stale.
 
 `React` `Node` `Express` `MongoDB`
 
@@ -79,9 +79,9 @@ Role-based recipe platform &#183; 24 REST APIs &#183; JWT auth &#183; live culin
 
 #### 💊 [Medicence Supplies](https://github.com/anishneu/MedicenceSupplies-Medical-Store-Platform)
 
-*Solo project &#183; deployed &#183; CI/CD*
+*Deployed &#183; CI/CD*
 
-Medical wholesale commerce &#183; Spring Boot 3 &#183; role-based catalog/fulfillment &#183; Docker CI/CD.
+A medical wholesale commerce platform built on Spring Boot 3, with role-based catalog browsing and order fulfillment workflows. Ships through a Dockerized CI/CD pipeline via GitHub Actions for fully automated deploys.
 
 `Spring Boot` `React` `TypeScript` `Docker`
 
@@ -92,9 +92,9 @@ Medical wholesale commerce &#183; Spring Boot 3 &#183; role-based catalog/fulfil
 
 #### 🧠 [Face Detection & Gender Recognition](https://github.com/anishneu/Face-Detection-and-Gender-Recognition)
 
-*Solo project &#183; deep learning &#183; research*
+*Deep learning &#183; research*
 
-Haar-cascade + CNN pipeline trained on CelebA &#183; 99.97% (male) / 94.18% (female) classification accuracy.
+A computer vision pipeline combining Haar-cascade face detection with a custom CNN for gender classification, trained end-to-end on the CelebA dataset and reaching 99.97% accuracy on male faces and 94.18% on female faces.
 
 `Python` `TensorFlow` `OpenCV`
 
@@ -107,7 +107,7 @@ Haar-cascade + CNN pipeline trained on CelebA &#183; 99.97% (male) / 94.18% (fem
 ## 🐍 `~/contributions`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anishneu/anishneu/output/mint-snake.svg" width="100%" alt="a pink snake eating its way across a mint-on-charcoal contribution graph"/>
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/main/assets/mint-snake.svg" width="100%" alt="a pink snake eating its way across a mint-on-charcoal contribution graph"/>
 </div>
 
 ## 📊 `~/stats`
@@ -127,6 +127,11 @@ Haar-cascade + CNN pipeline trained on CelebA &#183; 99.97% (male) / 94.18% (fem
 <a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/LinkedIn-0f766e?style=for-the-badge&logo=linkedin&logoColor=dcefe9"/></a>
 <a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6ee7c7?style=for-the-badge&logo=netlify&logoColor=0e1512"/></a>
 <a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/Email-ff9db0?style=for-the-badge&logo=gmail&logoColor=0e1512"/></a>
+
+<br/><br/>
+
+
+Thanks for stopping by — I hope something here was useful, or at least fun to look at. 🐈☕
 
 <br/><br/>
 <sub>Themed with <b>Mint Nocturne</b> — a hand-rolled palette. The cat, coffee & DNA helix are hand-written SVG + SMIL.</sub>
