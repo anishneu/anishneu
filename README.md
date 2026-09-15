@@ -53,7 +53,7 @@
 
 #### 🔐 [Enterprise Asset & Ops Management (PLM)](https://github.com/anishneu/Enterprise-Asset-Management-System-PLM)
 
-![stars](https://img.shields.io/github/stars/anishneu/Enterprise-Asset-Management-System-PLM?style=flat-square&logo=github&color=6ee7c7&labelColor=15201c&logoColor=dcefe9) ![forks](https://img.shields.io/github/forks/anishneu/Enterprise-Asset-Management-System-PLM?style=flat-square&logo=github&color=8ea2ff&labelColor=15201c&logoColor=dcefe9) ![last commit](https://img.shields.io/github/last-commit/anishneu/Enterprise-Asset-Management-System-PLM?style=flat-square&color=ff9db0&labelColor=15201c)
+*Solo project &#183; production-ready &#183; RBAC-secured*
 
 66 REST endpoints &#183; 5-tier RBAC via Keycloak &#183; full Draft&#8594;Released lifecycle with audit trail.
 
@@ -64,7 +64,7 @@
 
 #### 🍳 [Recipe Hub](https://github.com/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform)
 
-![stars](https://img.shields.io/github/stars/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform?style=flat-square&logo=github&color=6ee7c7&labelColor=15201c&logoColor=dcefe9) ![forks](https://img.shields.io/github/forks/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform?style=flat-square&logo=github&color=8ea2ff&labelColor=15201c&logoColor=dcefe9) ![last commit](https://img.shields.io/github/last-commit/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform?style=flat-square&color=ff9db0&labelColor=15201c)
+*Solo project &#183; deployed &#183; full-stack*
 
 Role-based recipe platform &#183; 24 REST APIs &#183; JWT auth &#183; live culinary news feed.
 
@@ -79,7 +79,7 @@ Role-based recipe platform &#183; 24 REST APIs &#183; JWT auth &#183; live culin
 
 #### 💊 [Medicence Supplies](https://github.com/anishneu/MedicenceSupplies-Medical-Store-Platform)
 
-![stars](https://img.shields.io/github/stars/anishneu/MedicenceSupplies-Medical-Store-Platform?style=flat-square&logo=github&color=6ee7c7&labelColor=15201c&logoColor=dcefe9) ![forks](https://img.shields.io/github/forks/anishneu/MedicenceSupplies-Medical-Store-Platform?style=flat-square&logo=github&color=8ea2ff&labelColor=15201c&logoColor=dcefe9) ![last commit](https://img.shields.io/github/last-commit/anishneu/MedicenceSupplies-Medical-Store-Platform?style=flat-square&color=ff9db0&labelColor=15201c)
+*Solo project &#183; deployed &#183; CI/CD*
 
 Medical wholesale commerce &#183; Spring Boot 3 &#183; role-based catalog/fulfillment &#183; Docker CI/CD.
 
@@ -92,7 +92,7 @@ Medical wholesale commerce &#183; Spring Boot 3 &#183; role-based catalog/fulfil
 
 #### 🧠 [Face Detection & Gender Recognition](https://github.com/anishneu/Face-Detection-and-Gender-Recognition)
 
-![stars](https://img.shields.io/github/stars/anishneu/Face-Detection-and-Gender-Recognition?style=flat-square&logo=github&color=6ee7c7&labelColor=15201c&logoColor=dcefe9) ![forks](https://img.shields.io/github/forks/anishneu/Face-Detection-and-Gender-Recognition?style=flat-square&logo=github&color=8ea2ff&labelColor=15201c&logoColor=dcefe9) ![last commit](https://img.shields.io/github/last-commit/anishneu/Face-Detection-and-Gender-Recognition?style=flat-square&color=ff9db0&labelColor=15201c)
+*Solo project &#183; deep learning &#183; research*
 
 Haar-cascade + CNN pipeline trained on CelebA &#183; 99.97% (male) / 94.18% (female) classification accuracy.
 
@@ -102,7 +102,7 @@ Haar-cascade + CNN pipeline trained on CelebA &#183; 99.97% (male) / 94.18% (fem
 </tr>
 </table>
 
-<div align="center"><sub>Stars, forks & last-commit dates above are live. More on my <a href="https://anishkuila.netlify.app">portfolio</a> — including a Unity 2D endless runner and a UX case study.</sub></div>
+<div align="center"><sub>More on my <a href="https://anishkuila.netlify.app">portfolio</a> — including a Unity 2D endless runner and a UX case study.</sub></div>
 
 ## 🐍 `~/contributions`
 
