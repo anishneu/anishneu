@@ -1,0 +1,56 @@
+<svg viewBox="0 0 1000 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A flowing mint DNA helix crossing the full card behind a quote: Write it like you'll debug it at 2 a.m., because you will.">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e1512"/>
+      <stop offset="60%" stop-color="#101c17"/>
+      <stop offset="100%" stop-color="#13241d"/>
+    </linearGradient>
+    <radialGradient id="scrimR" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0e1512" stop-opacity="0.6"/>
+      <stop offset="65%" stop-color="#0e1512" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#0e1512" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="rounded2"><rect x="0" y="0" width="1000" height="190" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded2)">
+    <rect width="1000" height="190" fill="url(#bg2)"/>
+    <rect width="1000" height="3" fill="#6ee7c7" opacity="0.35"/>
+
+    <!-- full-card flowing double helix: a continuous twisting ribbon (not discrete dot-pairs), corner to corner -->
+    <g opacity="0.75" transform="translate(15,12) rotate(9.4)">
+      <path fill="none" stroke="#6ee7c7" stroke-width="2.6" stroke-linecap="round" stroke-dasharray="2 12"
+        d="M0,0 Q12.5,46 25,0 Q37.5,-46 50,0 Q62.5,46 75,0 Q87.5,-46 100,0 Q112.5,46 125,0 Q137.5,-46 150,0 Q162.5,46 175,0 Q187.5,-46 200,0 Q212.5,46 225,0 Q237.5,-46 250,0 Q262.5,46 275,0 Q287.5,-46 300,0 Q312.5,46 325,0 Q337.5,-46 350,0 Q362.5,46 375,0 Q387.5,-46 400,0 Q412.5,46 425,0 Q437.5,-46 450,0 Q462.5,46 475,0 Q487.5,-46 500,0 Q512.5,46 525,0 Q537.5,-46 550,0 Q562.5,46 575,0 Q587.5,-46 600,0 Q612.5,46 625,0 Q637.5,-46 650,0 Q662.5,46 675,0 Q687.5,-46 700,0 Q712.5,46 725,0 Q737.5,-46 750,0 Q762.5,46 775,0 Q787.5,-46 800,0 Q812.5,46 825,0 Q837.5,-46 850,0 Q862.5,46 875,0 Q887.5,-46 900,0 Q912.5,46 925,0 Q937.5,-46 950,0 Q962.5,46 975,0">
+        <animate attributeName="stroke-dashoffset" values="0;-140" dur="3.4s" repeatCount="indefinite"/>
+      </path>
+      <path fill="none" stroke="#2dd4bf" stroke-width="2.3" stroke-linecap="round" stroke-dasharray="2 12"
+        d="M0,0 Q12.5,-46 25,0 Q37.5,46 50,0 Q62.5,-46 75,0 Q87.5,46 100,0 Q112.5,-46 125,0 Q137.5,46 150,0 Q162.5,-46 175,0 Q187.5,46 200,0 Q212.5,-46 225,0 Q237.5,46 250,0 Q262.5,-46 275,0 Q287.5,46 300,0 Q312.5,-46 325,0 Q337.5,46 350,0 Q362.5,-46 375,0 Q387.5,46 400,0 Q412.5,-46 425,0 Q437.5,46 450,0 Q462.5,-46 475,0 Q487.5,46 500,0 Q512.5,-46 525,0 Q537.5,46 550,0 Q562.5,-46 575,0 Q587.5,46 600,0 Q612.5,-46 625,0 Q637.5,46 650,0 Q662.5,-46 675,0 Q687.5,46 700,0 Q712.5,-46 725,0 Q737.5,46 750,0 Q762.5,-46 775,0 Q787.5,46 800,0 Q812.5,-46 825,0 Q837.5,46 850,0 Q862.5,-46 875,0 Q887.5,46 900,0 Q912.5,-46 925,0 Q937.5,46 950,0 Q962.5,-46 975,0">
+        <animate attributeName="stroke-dashoffset" values="0;140" dur="4s" repeatCount="indefinite"/>
+      </path>
+      <g stroke="#6ee7c7" stroke-width="1.6">
+        <line x1="12.5" y1="23" x2="12.5" y2="-23"><animate attributeName="opacity" values="0.45;0.14;0.45" dur="4.4s" begin="-0.2s" repeatCount="indefinite"/></line>
+        <line x1="112.5" y1="23" x2="112.5" y2="-23"><animate attributeName="opacity" values="0.45;0.14;0.45" dur="4.4s" begin="-0.7s" repeatCount="indefinite"/></line>
+        <line x1="212.5" y1="23" x2="212.5" y2="-23"><animate attributeName="opacity" values="0.45;0.14;0.45" dur="4.4s" begin="-1.2s" repeatCount="indefinite"/></line>
+        <line x1="312.5" y1="23" x2="312.5" y2="-23"><animate attributeName="opacity" values="0.45;0.14;0.45" dur="4.4s" begin="-1.7s" repeatCount="indefinite"/></line>
+        <line x1="412.5" y1="23" x2="412.5" y2="-23"><animate attributeName="opacity" values="0.45;0.14;0.45" dur="4.4s" begin="-2.2s" repeatCount="indefinite"/></line>
+        <line x1="512.5" y1="23" x2="512.5" y2="-23"><animate attributeName="opacity" values="0.45;0.14;0.45" dur="4.4s" begin="-2.7s" repeatCount="indefinite"/></line>
+        <line x1="612.5" y1="23" x2="612.5" y2="-23"><animate attributeName="opacity" values="0.45;0.14;0.45" dur="4.4s" begin="-3.2s" repeatCount="indefinite"/></line>
+        <line x1="712.5" y1="23" x2="712.5" y2="-23"><animate attributeName="opacity" values="0.45;0.14;0.45" dur="4.4s" begin="-3.7s" repeatCount="indefinite"/></line>
+        <line x1="812.5" y1="23" x2="812.5" y2="-23"><animate attributeName="opacity" values="0.45;0.14;0.45" dur="4.4s" begin="-4.2s" repeatCount="indefinite"/></line>
+        <line x1="912.5" y1="23" x2="912.5" y2="-23"><animate attributeName="opacity" values="0.45;0.14;0.45" dur="4.4s" begin="-4.7s" repeatCount="indefinite"/></line>
+      </g>
+    </g>
+
+    <!-- soft scrim, feathered (not a hard panel) so the helix keeps showing through -->
+    <ellipse cx="500" cy="95" rx="410" ry="100" fill="url(#scrimR)"/>
+
+    <!-- quote, with a dark halo stroke so it stays legible over the helix without needing an opaque card -->
+    <g font-family="'Segoe UI', Poppins, system-ui, sans-serif" text-anchor="middle" paint-order="stroke fill" stroke="#0e1512" stroke-linejoin="round">
+      <text x="500" y="66" font-family="'Fira Code', ui-monospace, monospace" font-size="11" letter-spacing="2" fill="#6ee7c7" stroke-width="3">$ fortune</text>
+      <text x="500" y="100" font-size="21" font-style="italic" font-weight="600" fill="#eafff8" stroke-width="5">&#8220;Write it like you'll debug it at 2 a.m. &#8212; because you will.&#8221;</text>
+      <text x="500" y="126" font-family="'Fira Code', ui-monospace, monospace" font-size="11" fill="#8ea2ff" stroke-width="3">&#8212; a rule I code by</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="998" height="188" rx="17" fill="none" stroke="#2b3a35" stroke-width="1.5"/>
+</svg>
