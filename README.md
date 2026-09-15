@@ -21,8 +21,6 @@
 
 ## 🌿 `~/stack`
 
-*Same dark chip everywhere — each logo keeps its own real brand color instead of being forced into a theme tint.*
-
 **Programming Languages**
 <br/>
 <img src="https://img.shields.io/badge/Java-1a2420?style=flat-square&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/Python-1a2420?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C-1a2420?style=flat-square&logo=c&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/C%2B%2B-1a2420?style=flat-square&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/HTML-1a2420?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS-1a2420?style=flat-square&logo=css&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-1a2420?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-1a2420?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/SQL-1a2420?style=flat-square&logoColor=dcefe9"/> <img src="https://img.shields.io/badge/Go-1a2420?style=flat-square&logo=go&logoColor=00ADD8"/>
@@ -68,9 +66,11 @@
 
 ![stars](https://img.shields.io/github/stars/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform?style=flat-square&logo=github&color=6ee7c7&labelColor=15201c&logoColor=dcefe9) ![forks](https://img.shields.io/github/forks/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform?style=flat-square&logo=github&color=8ea2ff&labelColor=15201c&logoColor=dcefe9) ![last commit](https://img.shields.io/github/last-commit/anishneu/RecipeHub-Full-Stack-Recipe-Discovery-Platform?style=flat-square&color=ff9db0&labelColor=15201c)
 
-Role-based recipe platform &#183; 24 REST APIs &#183; JWT auth &#183; live culinary news feed. **[▶ Live demo](https://anish-recipehub.netlify.app)**
+Role-based recipe platform &#183; 24 REST APIs &#183; JWT auth &#183; live culinary news feed.
 
 `React` `Node` `Express` `MongoDB`
+
+**[▶ Live Demo](https://anish-recipehub.netlify.app)**
 
 </td>
 </tr>
@@ -81,9 +81,11 @@ Role-based recipe platform &#183; 24 REST APIs &#183; JWT auth &#183; live culin
 
 ![stars](https://img.shields.io/github/stars/anishneu/MedicenceSupplies-Medical-Store-Platform?style=flat-square&logo=github&color=6ee7c7&labelColor=15201c&logoColor=dcefe9) ![forks](https://img.shields.io/github/forks/anishneu/MedicenceSupplies-Medical-Store-Platform?style=flat-square&logo=github&color=8ea2ff&labelColor=15201c&logoColor=dcefe9) ![last commit](https://img.shields.io/github/last-commit/anishneu/MedicenceSupplies-Medical-Store-Platform?style=flat-square&color=ff9db0&labelColor=15201c)
 
-Medical wholesale commerce &#183; Spring Boot 3 &#183; role-based catalog/fulfillment &#183; Docker CI/CD. **[▶ Live demo](https://anish-medicencesupplies.netlify.app/)**
+Medical wholesale commerce &#183; Spring Boot 3 &#183; role-based catalog/fulfillment &#183; Docker CI/CD.
 
 `Spring Boot` `React` `TypeScript` `Docker`
+
+**[▶ Live Demo](https://anish-medicencesupplies.netlify.app/)**
 
 </td>
 <td width="50%" valign="top">
@@ -101,6 +103,12 @@ Haar-cascade + CNN pipeline trained on CelebA &#183; 99.97% (male) / 94.18% (fem
 </table>
 
 <div align="center"><sub>Stars, forks & last-commit dates above are live. More on my <a href="https://anishkuila.netlify.app">portfolio</a> — including a Unity 2D endless runner and a UX case study.</sub></div>
+
+## 🐍 `~/contributions`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/anishneu/anishneu/output/mint-snake.svg" width="100%" alt="a pink snake eating its way across a mint-on-charcoal contribution graph"/>
+</div>
 
 ## 📊 `~/stats`
 
