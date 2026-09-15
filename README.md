@@ -128,12 +128,12 @@ A computer vision pipeline combining Haar-cascade face detection with a custom C
 <a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6ee7c7?style=for-the-badge&logo=netlify&logoColor=0e1512"/></a>
 <a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/Email-ff9db0?style=for-the-badge&logo=gmail&logoColor=0e1512"/></a>
 
-<br/><br/>
+<br/>
 
+<h3>Thanks for stopping by — I hope something here was useful, or at least fun to look at. 🐈☕</h3>
 
-Thanks for stopping by — I hope something here was useful, or at least fun to look at. 🐈☕
+<br/>
 
-<br/><br/>
 <sub>Themed with <b>Mint Nocturne</b> — a hand-rolled palette. The cat, coffee & DNA helix are hand-written SVG + SMIL.</sub>
 
 </div>
