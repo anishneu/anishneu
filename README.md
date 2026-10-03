@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=anishneu&label=Profile+Views&color=2dd4bf&style=for-the-badge" alt="profile views"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=anishneu&label=PROFILE%20VIEWS&labelColor=%231a2420&countColor=%232dd4bf&style=for-the-badge&labelStyle=upper" alt="profile views"/>
 <a href="https://www.linkedin.com/in/anish-kuila/"><img src="https://img.shields.io/badge/LinkedIn-0f766e?style=for-the-badge&logo=linkedin&logoColor=dcefe9" alt="LinkedIn"/></a>
 <a href="https://anishkuila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6ee7c7?style=for-the-badge&logo=netlify&logoColor=0e1512" alt="Portfolio"/></a>
 <a href="mailto:anishkuila006@gmail.com"><img src="https://img.shields.io/badge/Email-ff9db0?style=for-the-badge&logo=gmail&logoColor=0e1512" alt="Email"/></a>
